@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yandex-practicum-sprint-8"
+version = "0.1.0"
+description = ""
+authors = ["nik_4design <nik_4design@icloud.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+locust = "^2.41.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
